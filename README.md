@@ -8,10 +8,6 @@ The system performs exploratory data analysis, feature engineering, and predicti
 
 ---
 
-code system file 
-
----
-
 ## Problem Statement
 
 With thousands of shows available on Netflix, understanding what drives popularity is essential for:
