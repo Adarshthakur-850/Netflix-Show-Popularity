@@ -147,7 +147,9 @@ The model identifies key features that significantly influence show popularity. 
 ## Author
 
 Adarsh Thakur
+
 Machine Learning Engineer
+
 GitHub: [https://github.com/Adarshthakur-850](https://github.com/Adarshthakur-850)
 
 ---
